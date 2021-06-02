@@ -94,7 +94,7 @@ Twilio          ``symfony/twilio-notifier``           ``twilio://SID:TOKEN@defau
 
 .. versionadded:: 5.4
 
-    The TurboSms integrations was introduced in Symfony 5.4.
+    The TurboSms integration was introduced in Symfony 5.4.
 
 To enable a texter, add the correct DSN in your ``.env`` file and
 configure the ``texter_transports``:
